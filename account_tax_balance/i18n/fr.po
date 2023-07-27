@@ -106,7 +106,7 @@ msgstr "Nom affiché"
 #: model:ir.model.fields,field_description:account_tax_balance.field_account_move__financial_type
 #: model:ir.model.fields,field_description:account_tax_balance.field_account_payment__financial_type
 msgid "Financial Type"
-msgstr ""
+msgstr "Type Financier"
 
 #. module: account_tax_balance
 #: model:ir.model.fields,field_description:account_tax_balance.field_wizard_open_tax_balances__from_date
